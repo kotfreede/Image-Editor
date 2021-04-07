@@ -21,4 +21,13 @@ For more click /help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/Moviesflixers_DL'>Click Here</a>"""
+⭕️<b>Source Code :</b> 👉 <a href='https://telegram.dog/Moviesflixers_DL'>Click Here</a>
+
+⭕<b>My Father 👨‍💻:</b> <a href='https://telegram.dog/PredatorHackerzZ_bot'>Developer👨‍💻</a>
+
+⭕<b>Channel :</b> <a href='https://t.me/TheTeleRoid'>Updates</a>
+
+⭕<b>Support :</b> <a href='https://t.me/TeleRoid14'>Channel</a>
+
+"""
+
