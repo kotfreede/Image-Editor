@@ -7,38 +7,38 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Image-Editor/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Image-Editor?style=social">
+  <a href="https://github.com/P-Phreak/Image-Editor/stargazers">
+    <img src="https://img.shields.io/github/stars/P-Phreak/Image-Editor?style=social">
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Image-Editor/fork">
-    <img src="https://img.shields.io/github/forks/TroJanzHEX/Image-Editor?label=Fork&style=social">
+  <a href="https://github.com/P-Phreak/Image-Editor/fork">
+    <img src="https://img.shields.io/github/forks/P-Phreak/Image-Editor?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![TeleRoid](https://img.shields.io/badge/TeleRoid-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TeleRoidGroup)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![TeleRoid](https://img.shields.io/badge/TeleRoid-Support-red?style=flat&logo=telegram)](https://telegram.dog/TeleRoid14)  [![TeleRoid](https://img.shields.io/badge/P-Phreak-Website-red?style=flat&logo=CodersRank)](https://t.me/TheTeleRoid)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Image-Editor)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/P-Phreak/Image-Editor/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/P-Phreak/Image-Editor)
 
 
 
 
 
 #### An open source image editor which can manipulate an image in many ways!
-#### If you need any more modes in repo or If you find out any bugs, mention in @TroJanzSupport
+#### If you need any more modes in repo or If you find out any bugs, mention in @TeleRoid14
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Image-Editor)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/P-Phreak/Image-Editor)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Image-Editor
+git clone https://github.com/P-Phreak/Image-Editor
 cd Image-Editor
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
