@@ -14,7 +14,7 @@ async def start(client: Client, message: Message):
                 [
                     [
                         InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/TeleRoidGroup"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("🛑 Support 🛑", url="https://t.me/TeleRoid14"),
                     ],
                     [
                         InlineKeyboardButton(
