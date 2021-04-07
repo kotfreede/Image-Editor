@@ -13,7 +13,7 @@ async def start(client: Client, message: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("HELP", callback_data="help_data"),
+                        InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/TeleRoidGroup"),
                         InlineKeyboardButton("ABOUT", callback_data="about_data"),
                     ],
                     [
