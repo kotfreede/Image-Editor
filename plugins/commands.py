@@ -13,13 +13,13 @@ async def start(client: Client, message: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/TeleRoidGroup"),
-                        InlineKeyboardButton("🛑 Support 🛑", url="https://t.me/TeleRoid14"),
+                        InlineKeyboardButton("⭕ Channel ⭕", url="https://t.me/KOT_BOTS"),
+                        InlineKeyboardButton("🛑 Support 🛑", url="https://t.me/KOT_REPORS"),
                     ],
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://telegram.dog/Moviesflixers_DL",
+                            url="https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF_YT",
                         )
                     ],
                 ]
@@ -45,7 +45,7 @@ async def help(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://telegram.dog/Moviesflixers_DL",
+                            url="https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF_YT",
                         )
                     ],
                 ]
@@ -71,7 +71,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "SOURCE CODE",
-                            url="https://telegram.dog/Moviesflixers_DL",
+                            url="https://telegram.dog/KOT_FREE_DE_LA_HOYA_OFF_YT",
                         )
                     ],
                 ]
